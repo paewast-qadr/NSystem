@@ -1,13 +1,13 @@
 {
     "dev": {
-        "owner_id": [""],
-        "support": "",
+        "owner_id": ["820098692068671528"],
+        "support": "820098692068671528",
         "website": ""
     },
     "bot": {
         "connections": {
             "mongoose": "",
-            "yt_api": ""
+            "yt_api": "AIzaSyByVLyLrAHfDda-07XQyqDm8XDsbCnmr4E"
         },
         "setting": {
             "main_prefix": ""
